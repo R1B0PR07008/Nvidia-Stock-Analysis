@@ -23,14 +23,13 @@ The project includes:
 
 ## Technologies
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Financial APIs (yfinence)
-- Jupyter Notebook
-
+- **Python** for data analysis and modeling
+- **Pandas & NumPy** for data processing
+- **Statsmodels** for econometric analysis and statistical diagnostics
+- **Scikit-learn** for regression modeling
+- **SciPy** for statistical functions
+- **Matplotlib** for data visualization
+- **yfinance** for historical financial market data
 ---
 
 ## Models Evaluated
